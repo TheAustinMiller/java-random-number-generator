@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main{
+public class main{
     public static void main (String[]args){
         Scanner input = new Scanner(System.in);
         System.out.println("WELCOME TO EPIC RANDOM NUMBER GENERATOR");
